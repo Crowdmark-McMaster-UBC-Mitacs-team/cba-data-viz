@@ -6,7 +6,7 @@ This repository allows you to have your calculus readiness gauged based on your 
 
 The raw text data used to build these models is unavailable for public use. Due to the ethics guidelines agreed upon to prior to data collection, we are unable to share raw data files to anyone outside of the research team. Any available data that is able to be shared is already on this GitHub repository.
 
-If you use any of this repository as part of a published work, we ask that you cite us accordingly. If you are interested in this project and would like to learn more, please see the [slide deck](https://github.com/QuonnorGraygar/cba-data-viz/blob/main/cba_example/cba_presentation.pdf) from a recent presentation and/or contact our research team:
+If you use any of this repository as part of a published work, we ask that you cite us accordingly. If you are interested in this project and would like to learn more, please see the [slide deck](https://github.com/Crowdmark-McMaster-UBC-Mitacs-team/cba-data-viz/blob/main/cba_dissemination/CBA%20presentation%20(OSULME).pdf) from a recent presentation and/or contact our research team:
 - Connor Gregor, Postdoctoral Fellow, Department of Mathematics and Statistics, McMaster University (gregoc9@mcmaster.ca)
 - Caroline Junkins, Assistant Professor, Department of Mathematics and Statistics, McMaster University (junkinc@mcmaster.ca)
 - Lindsey Daniels, Assistant Professor of Teaching, Department of Mathematics, University of British Columbia (ldaniels@math.ubc.ca)
